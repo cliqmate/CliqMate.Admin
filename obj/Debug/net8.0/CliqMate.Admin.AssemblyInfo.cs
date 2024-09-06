@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CliqMate.Admin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a769a514038be0527c926b81deb7510ce6e6172")]
 [assembly: System.Reflection.AssemblyProductAttribute("CliqMate.Admin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CliqMate.Admin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
